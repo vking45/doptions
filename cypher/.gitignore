@@ -1,0 +1,6 @@
+.env
+/onchain/__pycache__
+/twelveData/__pycache__
+/giza_logic/__pycache__
+/doptions_agent
+/tmp
